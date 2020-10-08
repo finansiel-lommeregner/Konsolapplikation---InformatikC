@@ -14,11 +14,9 @@ Du kan for eksempel beregne din fremtidskapital, her er en vejledning til og at 
 For at instalere programmet kan du bare downloade filmappen som .zip på din computer og exportere den i netbeans.
 Ellers kan du kigge i build-impl.xml filen
 
-## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 Alex Uldahl Pedersen - initial work
+
 ### Contributers
 Casper Maigaard Rasmussen - Contributer
 
